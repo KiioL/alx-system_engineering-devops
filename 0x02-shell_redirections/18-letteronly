@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i "^[A-Z]" 18-letteronly
+grep -i "^[A-Z]*" 18-letteronly
